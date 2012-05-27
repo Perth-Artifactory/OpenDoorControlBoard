@@ -666,6 +666,7 @@ UsedLibrary="/Applications/EAGLE-6.1.0/lbr/zilog.lbr"
 UsedLibrary="/Users/atrophy/git-repos/Following/SparkFun-Eagle-Library/SparkFun.lbr"
 UsedLibrary="CustomSymbols.lbr"
 UsedLibrary="/Users/atrophy/eagle-libs/wurth_electronics_midcom_inc_v1-0.lbr"
+UsedLibrary="/Users/atrophy/git-repos/Following/Adafruit-Eagle-Library/adafruit.lbr"
 
 [Win_1]
 Type="Control Panel"
